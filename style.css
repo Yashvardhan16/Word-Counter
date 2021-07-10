@@ -1,0 +1,37 @@
+body{
+  background-color: #BEAEE2;
+}
+.headingM{
+margin-left: 400px;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  font-family: :"Montserrat-Black" ;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: black;
+}
+textarea{
+  margin-left: 300px;
+  display: inline-block;
+  width: 120%;
+ padding: 42px;
+ position:absolute;
+ top: 180px;
+ background-color: #EDEDED;
+ border-color: green;
+}
+button{
+  font-size: 16px;
+  color: #fff;
+  padding: 4px;
+  position: fixed;
+   bottom: 100px;
+   right: 150px;
+
+}
+ul{
+  bottom: 100px;
+  font-weight: bold;
+}

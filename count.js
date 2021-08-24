@@ -1,3 +1,4 @@
+//Yashvardhan
 $(document).ready(function() {
   $("#word_count").on('keyup', function() {
     var words = 0;
